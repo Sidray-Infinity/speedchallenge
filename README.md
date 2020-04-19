@@ -22,3 +22,9 @@ Twitter
 
 <a href="https://twitter.com/comma_ai">Follow us!</a>
 
+Ideas
+------
+
+- The simples logic is to directly feed the data to NN, and let it understand the relation between frame and speed.
+ - A good feature to predict speed from is through the objects on the sides of the car, and not directly in front of it.
+ 
